@@ -1,6 +1,6 @@
 # AI-for-Science
 
-solve_burgers_dirihit.py：通过神经网络拟合偏微分方程（Burgers方程），使用Adam优化器和MSE损失函数对神经网络进行训练。一组运行结果：
+solve_Burgers_Dirichlit.py：通过神经网络拟合偏微分方程（Burgers方程），使用Adam优化器和MSE损失函数对神经网络进行训练。一组运行结果：
 
 step: 0  loss = 0.4948219656944275
 
