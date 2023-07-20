@@ -27,3 +27,5 @@ step: 9000  loss = 0.015311149880290031
 t-SNE-digits.py：实现了使用 t-SNE（t-Distributed Stochastic Neighbor Embedding）算法对输入的经典手写数字数据集进行降维，并将结果可视化成二维散点图。
 
 手写数字数据集包含了 1797 张 8x8 像素的手写数字图片和对应的标签。将图片数据 X 输入到 sklearn.manifold.TSNE 类中，使用 t-SNE 算法对其进行降维，得到二维的 X_tsne 数组。将 X_tsne 中的每个样本点可视化成二维散点图，其中每个点的颜色对应于其对应的手写数字标签 y。
+
+![image](https://github.com/longziyu/AI-for-Science/blob/main/t-sne-digits.png)
