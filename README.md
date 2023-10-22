@@ -1,6 +1,8 @@
 # AI-for-Science
 
 （1）solve_Burgers_Dirichlet.py：通过神经网络拟合偏微分方程（Burgers方程），使用Adam优化器和MSE损失函数对神经网络进行训练。参考：https://blog.csdn.net/lny161224/article/details/120520609
+![image](https://github.com/longziyu/AI-for-Science/blob/main/Preddata.png)
+![image](https://github.com/longziyu/AI-for-Science/blob/main/Truedata.png)
 
 一组运行结果：
 
