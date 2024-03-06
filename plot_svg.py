@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load the data from the uploaded Excel file
-data_path = '/mnt/data/数据.xlsx'
+data_path = '数据.xlsx'
 data = pd.read_excel(data_path)
 
 # Convert 'Training Time' and 'Time Varience' to numeric values
